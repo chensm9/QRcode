@@ -1,0 +1,27 @@
+html, body {
+  width: 60%;
+  height: 100%;
+  margin: auto;
+  overflow: hidden;
+}
+
+div.main {
+  width: 100%;
+  height: 100%;
+  margin-top: 5%;
+}
+
+img{
+  display: inline-block;
+  width: 256pt;
+  height: 256pt;
+  background-color: gray;
+}
+
+input {
+  display: inline-block;
+  margin-top: 5%;
+  width: 100%;
+  height: 30%;
+  font-size: 20pt;
+}
